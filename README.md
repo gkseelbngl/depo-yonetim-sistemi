@@ -62,7 +62,7 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 
 
 **Kullanım Videosu**
-
+[YouTube Videosunu İzle](https://youtu.be/fndhLUfV8pM)
 
 **Notlar**
 
@@ -71,4 +71,5 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 
 
 **Katkıda Bulunma**
-      Hataları bulup bildirmek veya yeni özellikler eklemek için çekinmeyin. Pull requestlerinizi bekliyoruz!
+
+Hataları bulup bildirmek veya yeni özellikler eklemek için çekinmeyin. Pull requestlerinizi bekliyoruz!
