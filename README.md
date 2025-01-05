@@ -16,8 +16,9 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 1. **Bağımlılıklar:** Sistemde *zenity* yüklü olmalıdır. Debian tabanlı sistemlerde:
 
        sudo apt-get install zenity 
-3. **Dosyaları İndirme:**
-       o Bu repository'yi klonlayın:
+2. **Dosyaları İndirme:**
+   
+   o Bu repository'yi klonlayın:
    
        git clone [repo-url-here]
-5. **Kullanma:**
+3. **Kullanma:**
