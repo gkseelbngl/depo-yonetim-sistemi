@@ -17,5 +17,7 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 
        sudo apt-get install zenity 
 3. **Dosyaları İndirme:**
+       o Bu repository'yi klonlayın:
    
-4. **Kullanma:**
+       git clone [repo-url-here]
+5. **Kullanma:**
