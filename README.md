@@ -15,21 +15,24 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 **Kurulum**
    1. **Bağımlılıklar:** Sistemde *zenity* yüklü olmalıdır. Debian tabanlı sistemlerde:
 
-          sudo apt-get install zenity 
+          sudo apt-get install zenity
+      
    2. **Dosyaları İndirme:**
    
       o Bu repository'yi klonlayın:
    
-          git clone [repo-url-here]
+          git clone https://github.com/gkseelbngl/depo-yonetim-sistemi.git
+      
    3. **Kullanma:**
 
-      o Script dosyasının bulunduğu dizinde terminal açın:
+      o Dosya izinlerini ayarlayın:
 
-          cd [repository-dizini]
+          chmod +x depo_yonetim_sistemi.sh
    
       o Script'i çalıştırın:
 
-          bash depo_yonetim_sistemi.sh
+          ./depo_yonetim_sistemi.sh
+
 
 **Kullanım**
 
