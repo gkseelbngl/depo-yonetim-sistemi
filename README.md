@@ -29,7 +29,7 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
    
       o Script'i çalıştırın:
 
-          bash ana_script.sh
+          bash depo_yonetim_sistemi.sh
 
 **Kullanım**
 
