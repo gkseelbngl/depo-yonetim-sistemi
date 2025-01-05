@@ -14,3 +14,8 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 
 **Kurulum**
 1. **Bağımlılıklar:** Sistemde *zenity* yüklü olmalıdır. Debian tabanlı sistemlerde:
+
+       sudo apt-get install zenity 
+3. **Dosyaları İndirme:**
+   
+4. **Kullanma:**
