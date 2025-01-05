@@ -32,5 +32,6 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
           bash ana_script.sh
 
 **Kullanım**
+
    **Giriş Yapma**
       * **Kullanıcı Girişi:** Kullanıcı adı ve şifre ile giriş yapılır. Yönetici girişi için özel bir parola gereklidir.
