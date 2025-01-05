@@ -50,7 +50,12 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 
 **Kullanıcı Arayüzü**
 
+Uygulamamızdan bazı ekran görüntüleri aşağıda bulunmaktadır:
+
    **Giriş Ekranı**
+
+   ![image](https://github.com/user-attachments/assets/f0d46842-4c91-4d5d-865b-d9685a2161e4)
+
 
    **Ana Menü**
 
