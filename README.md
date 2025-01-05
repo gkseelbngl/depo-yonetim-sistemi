@@ -62,6 +62,7 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 
 
 **Kullanım Videosu**
+
 [YouTube Videosunu İzle](https://youtu.be/fndhLUfV8pM)
 
 **Notlar**
