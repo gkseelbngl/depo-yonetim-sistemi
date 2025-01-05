@@ -13,20 +13,20 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 * **Program Yönetimi:** Dosya yedekleme ve programı kapatma seçenekleri.
 
 **Kurulum**
-1. **Bağımlılıklar:** Sistemde *zenity* yüklü olmalıdır. Debian tabanlı sistemlerde:
+   1. **Bağımlılıklar:** Sistemde *zenity* yüklü olmalıdır. Debian tabanlı sistemlerde:
 
-       sudo apt-get install zenity 
-2. **Dosyaları İndirme:**
+          sudo apt-get install zenity 
+   2. **Dosyaları İndirme:**
    
-   o Bu repository'yi klonlayın:
+      o Bu repository'yi klonlayın:
    
-       git clone [repo-url-here]
-3. **Kullanma:**
+          git clone [repo-url-here]
+   3. **Kullanma:**
 
-   o Script dosyasının bulunduğu dizinde terminal açın:
+      o Script dosyasının bulunduğu dizinde terminal açın:
 
-       cd [repository-dizini]
+          cd [repository-dizini]
    
-   o Script'i çalıştırın:
+      o Script'i çalıştırın:
 
-       bash ana_script.sh
+          bash ana_script.sh
