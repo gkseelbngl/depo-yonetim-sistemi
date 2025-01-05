@@ -47,3 +47,29 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
    * **Kullanıcı Yönetimi:** Yeni kullanıcılar ekleyebilir, mevcut kullanıcıları silebilir veya kilitli hesapları açabilir (yönetici).
    * **Şifre Yönetimi:** Yönetici şifresini değiştirme (yönetici).
    * **Program Yönetimi:** Dosyaları yedekleme ve programı kapatma (yönetici).
+
+**Kullanıcı Arayüzü**
+
+   **Giriş Ekranı**
+
+   **Ana Menü**
+
+   **Ürün Ekleme**
+
+   **Ürün Listeleme**
+
+   **Rapor Görüntüleme**
+
+
+**Kullanım Videosu**
+
+
+**Notlar**
+
+   * **Güvenlik:** Şifreler ve hassas bilgiler dosya içinde saklanır, bu yüzden güvenlik açısından dikkatli olunmalıdır. Gerçek kullanımda daha güvenli bir yöntem kullanılmalıdır.
+   * **Yedekleme:** Program Yönetimi seçeneği ile dosyalarınızı yedekleyebilirsiniz, bu önemli bir veri kaybı önleme yöntemidir.
+
+
+**Katkıda Bulunma**
+
+Hataları bulup bildirmek veya yeni özellikler eklemek için çekinmeyin. Pull requestlerinizi bekliyoruz!
