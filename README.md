@@ -74,7 +74,13 @@ Uygulamamızdan bazı ekran görüntüleri aşağıda bulunmaktadır:
 
    **Ürün Listeleme**
 
+   ![image](https://github.com/user-attachments/assets/81d23183-f8c1-4319-8557-fa4b2ae7ff6e)
+
+
    **Rapor Görüntüleme**
+
+   ![image](https://github.com/user-attachments/assets/a1be0631-bb22-4e29-8bf9-756f72796a15)
+
 
 
 **Kullanım Videosu**
