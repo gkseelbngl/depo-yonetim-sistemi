@@ -54,8 +54,7 @@ Uygulamamızdan bazı ekran görüntüleri aşağıda bulunmaktadır:
 
    **Giriş Ekranı**
 
-   ![image](https://github.com/user-attachments/assets/c34e420b-9794-4b16-a330-be023f5133b0)  
- ![image](https://github.com/user-attachments/assets/f8a9442a-180c-4f7f-a3d2-28663af3b241)
+   ![image](https://github.com/user-attachments/assets/c34e420b-9794-4b16-a330-be023f5133b0)   ![image](https://github.com/user-attachments/assets/f8a9442a-180c-4f7f-a3d2-28663af3b241)
 
 
 
