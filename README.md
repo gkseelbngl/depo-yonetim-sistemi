@@ -62,7 +62,8 @@ Uygulamamızdan bazı ekran görüntüleri aşağıda bulunmaktadır:
 
    **Ana Menü**
 
-   
+   ![image](https://github.com/user-attachments/assets/95403533-a6c0-4b42-9cb2-07549ef067a3)
+
 
    **Ürün Ekleme**
 
