@@ -67,7 +67,8 @@ Uygulamamızdan bazı ekran görüntüleri aşağıda bulunmaktadır:
 
    **Ürün Ekleme**
 
-   ![image](https://github.com/user-attachments/assets/1aa25fdb-d295-42fb-9664-66f3f007a2cc)   ![image](https://github.com/user-attachments/assets/445decec-120c-427f-92d1-f69d90129ee0)   ![image](https://github.com/user-attachments/assets/836e4ebc-177c-453f-a453-e9bb807ebb2c)
+   ![image](https://github.com/user-attachments/assets/1aa25fdb-d295-42fb-9664-66f3f007a2cc)   ![image](https://github.com/user-attachments/assets/445decec-120c-427f-92d1-f69d90129ee0)   ![image](https://github.com/user-attachments/assets/836e4ebc-177c-453f-a453-e9bb807ebb2c)   ![image](https://github.com/user-attachments/assets/4bd75794-d70f-4548-8750-2629dade082e)
+
 
 
 
