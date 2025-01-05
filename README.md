@@ -22,3 +22,11 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
    
        git clone [repo-url-here]
 3. **Kullanma:**
+
+   o Script dosyasının bulunduğu dizinde terminal açın:
+
+       cd [repository-dizini]
+   
+   o Script'i çalıştırın:
+
+       bash ana_script.sh
