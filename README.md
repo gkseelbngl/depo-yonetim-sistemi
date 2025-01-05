@@ -19,19 +19,19 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
       
    2. **Dosyaları İndirme:**
    
-      o Bu repository'yi klonlayın:
+      * Bu repository'yi klonlayın:
    
-          git clone https://github.com/gkseelbngl/depo-yonetim-sistemi.git
+            git clone https://github.com/gkseelbngl/depo-yonetim-sistemi.git
       
    3. **Kullanma:**
 
-      o Dosya izinlerini ayarlayın:
+      * Dosya izinlerini ayarlayın:
 
-          chmod +x depo_yonetim_sistemi.sh
+            chmod +x depo_yonetim_sistemi.sh
    
-      o Script'i çalıştırın:
+      * Script'i çalıştırın:
 
-          ./depo_yonetim_sistemi.sh
+            ./depo_yonetim_sistemi.sh
 
 
 **Kullanım**
