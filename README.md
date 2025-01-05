@@ -36,3 +36,14 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
    **Giriş Yapma**
    
    * **Kullanıcı Girişi:** Kullanıcı adı ve şifre ile giriş yapılır. Yönetici girişi için özel bir parola gereklidir.
+
+   **Ana Menü Seçenekleri**
+
+   * **Ürün Ekle:** Sadece yönetici rolüne sahip kullanıcılar yeni ürün ekleyebilir.
+   * **Ürün Listele:** Hem yönetici hem de normal kullanıcılar tüm ürünleri listeleyebilir.
+   * **Ürün Güncelle:** Yönetici rolündeki kullanıcılar ürün detaylarını güncelleyebilir.
+   * **Ürün Sil:** Sadece yönetici rolündeki kullanıcılar ürünleri silebilir.
+   * **Rapor Al:** Ürünlerin listesini bir rapor olarak alınabilir.
+   * **Kullanıcı Yönetimi:** Yeni kullanıcılar ekleyebilir, mevcut kullanıcıları silebilir veya kilitli hesapları açabilir (yönetici).
+   * **Şifre Yönetimi:** Yönetici şifresini değiştirme (yönetici).
+   * **Program Yönetimi:** Dosyaları yedekleme ve programı kapatma (yönetici).
