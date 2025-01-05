@@ -34,4 +34,5 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 **Kullanım**
 
    **Giriş Yapma**
-      * **Kullanıcı Girişi:** Kullanıcı adı ve şifre ile giriş yapılır. Yönetici girişi için özel bir parola gereklidir.
+   
+   * **Kullanıcı Girişi:** Kullanıcı adı ve şifre ile giriş yapılır. Yönetici girişi için özel bir parola gereklidir.
