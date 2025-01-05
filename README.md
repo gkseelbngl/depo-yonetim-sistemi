@@ -13,4 +13,4 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 * **Program Yönetimi:** Dosya yedekleme ve programı kapatma seçenekleri.
 
 **Kurulum**
-1. **Bağımlılıklar:** Sistemde *zenity yüklü olmalıdır. Debian tabanlı sistemlerde:
+1. **Bağımlılıklar:** Sistemde ***zenity yüklü olmalıdır. Debian tabanlı sistemlerde:
