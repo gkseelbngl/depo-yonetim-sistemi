@@ -95,4 +95,4 @@ Uygulamamızdan bazı ekran görüntüleri aşağıda bulunmaktadır:
 
 **Katkıda Bulunma**
 
-Hataları bulup bildirmek veya yeni özellikler eklemek için çekinmeyin. Pull requestlerinizi bekliyoruz!
+Hataları bulup bildirmek veya yeni özellikler eklemek için çekinmeyin. Pull requestlerinizi bekliyorum!
