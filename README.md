@@ -3,7 +3,7 @@ Bu proje, Zenity kullanarak GNU/Linux sistemlerinde çalışabilen grafiksel bir
 
 Özellikler
 
-    Ürün Ekleme: Yeni ürünler ekleyebilme.
+* Ürün Ekleme: Yeni ürünler ekleyebilme.
     Ürün Listeleme: Mevcut ürünleri görüntüleme.
     Ürün Güncelleme: Ürün bilgilerini güncelleme.
     Ürün Silme: Ürünleri sistemden silme.
